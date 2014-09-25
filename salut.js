@@ -1,1 +1,2 @@
-alert("voici mon script :D ");
+var message = "######## voici mon script :D #########";
+alert(message); 
